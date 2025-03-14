@@ -9,7 +9,7 @@ document.querySelectorAll('video').forEach(video => {
 });
 ```
 
-3. **Profit**
+4. **Profit**
 
     You have received a whole 24 hours of Nitro for free. This will also work for any future Quests that needs you to watch a video in order to receive rewards (i.e: "Khazan Video Quest")
 
