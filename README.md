@@ -1,7 +1,7 @@
 ## Instructions
 
 1. **Log into Discord**
-2. **Find the Quest named "DROP Trailer Quest" 
+2. **Find the Quest named "DROP Trailer Quest"**
 3. **Start the quest, open the Developer Console of your browser, and paste the script below:**
   ```js
 document.querySelectorAll('video').forEach(video => {
